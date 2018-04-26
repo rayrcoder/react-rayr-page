@@ -25,7 +25,7 @@
     }}
 />
 ```
-#### &nbsp;&nbsp;tips:not forget import the css file
+####  &nbsp;&nbsp; tips:don`t forget to import the css file
 
 
 
