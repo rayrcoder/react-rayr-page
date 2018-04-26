@@ -9,7 +9,7 @@
 
 ### Params
 | param | type | descript | default | 
-| - | :-: | :-: | :-:|
+| :-: | :-: | :-: | :-:|
 | count | Number| the sum of data (required)| null
 | currentPage | Number | current page | 1 
 | perPage | Number | the counts that each page shows | 10
