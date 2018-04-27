@@ -1,6 +1,6 @@
 {
   "name": "react-rayr-page",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "react-rayr-page",
   "main": "lib/index.js",
   "scripts": {
