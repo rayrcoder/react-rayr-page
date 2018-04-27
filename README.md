@@ -13,6 +13,7 @@
 | count | Number| the sum of data (required)| null
 | currentPage | Number | current page | 1 
 | perPage | Number | the counts that each page shows | 10
+| onChange | Function | callback, the param is the page which you have clicked| 
 ### Use Demo
  ```javascript
  import {RayrPage} from 'react-rayr-page';

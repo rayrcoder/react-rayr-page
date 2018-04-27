@@ -15,7 +15,7 @@
             margin:0.2rem;
             width: 1.5rem;
             height: 1.5rem;
-            font-size: 0.6rem;
+            font-size: 0.65rem;
             cursor: pointer;
             color:#757575;
             border-radius: 2px;
@@ -72,6 +72,7 @@
         .click-disable{
             cursor:not-allowed;
             background-color: #ededed;
+            opacity: 0.5;
         }
     }
 }
